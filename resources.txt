@@ -7,3 +7,5 @@ Ideias Sensacionais
 https://www.minmeister.com (Mapa Mental)
 
 Removendo algo na branch teste na mesma linha da master
+
+Teste durante a aula :)
